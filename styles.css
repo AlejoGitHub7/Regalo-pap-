@@ -1,0 +1,32 @@
+body{
+    background-color: lightcyan;
+    font-style: Arial;
+}
+#Titulo{
+    font-size: 170px;
+    color: lightseagreen;
+    margin-top: 0%;
+    margin-bottom: 10px;
+}
+h1{
+    text-align: center;
+}
+#Inputs{
+    margin-left: 300px;
+    margin-top: 50px;
+
+}
+.inactive{
+    display: none;
+}
+button{
+    background-color: lightseagreen;
+    font-style: Arial;
+    height: 150px;
+    font-size: 30px;
+    width: 250px;
+    border-radius: 20px;
+    border: none;
+    color: white;
+    margin-left: 1000px;
+}
